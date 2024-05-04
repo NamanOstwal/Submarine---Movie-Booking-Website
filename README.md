@@ -1,2 +1,5 @@
 # Submarine---Movie-Booking-Website
 This project uses various languages like HTML, CSS, JS. We've created this project as a part of our PBL (Project Based Learning) project
+
+"Submarine" is a project-based learning initiative that explores the creation of a user-friendly movie ticket booking website. Utilizing HTML, CSS, JavaScript, and complementary technologies, our team embarked on designing and developing a seamless online platform tailored for the modern moviegoer. The website prioritizes simplicity and accessibility, offering an intuitive interface for users to effortlessly navigate through movie selections, showtimes, and seating options.
+Moreover, this project underscores the practical application of theoretical knowledge in web development, reinforcing key concepts learned through hands-on experimentation and collaboration. By embracing project-based learning methodologies, "Submarine" not only equips participants with technical proficiency but also fosters critical thinking and problem-solving skills essential for success in the digital age.
